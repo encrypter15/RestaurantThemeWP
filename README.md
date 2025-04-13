@@ -7,7 +7,7 @@
 
 ## Description
 
-RestaurantTheme is a fully functional WordPress theme for restaurants, inspired by the Elegant Themes Restaurant Layout Pack. It features pages for Home, About, Menu, Shop, Gallery, Blog, Contact, and Reservation. Built for WordPress, it includes a custom slider plugin (RestaurantSlider), WooCommerce integration for the shop, and optional Google Analytics tracking. The theme is responsive, SEO-optimized, and designed for deployment on a hosting provider’s WordPress site.
+RestaurantTheme is a fully functional WordPress theme for restaurants. It features pages for Home, About, Menu, Shop, Gallery, Blog, Contact, and Reservation. Built for WordPress, it includes a custom slider plugin (RestaurantSlider), WooCommerce integration for the shop, and optional Google Analytics tracking. The theme is responsive, SEO-optimized, and designed for deployment on a hosting provider’s WordPress site.
 
 ### Features
 - **Multi-Page Design**: Pages for all restaurant needs.
