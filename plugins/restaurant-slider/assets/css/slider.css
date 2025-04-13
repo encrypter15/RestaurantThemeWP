@@ -1,0 +1,63 @@
+/* Restaurant Slider CSS */
+/* Author: encrypter15, Email: encrypter15@gmail.com, License: MIT, Version: 2.0 */
+
+.restaurant-slider {
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.slider-track {
+    display: flex;
+    transition: transform 0.5s ease;
+}
+
+.slide {
+    flex: 0 0 100%;
+    text-align: center;
+}
+
+.slide img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+.slider-prev, .slider-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.slider-prev {
+    left: 10px;
+}
+
+.slider-next {
+    right: 10px;
+}
+
+.slider-dots {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.dot {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    background: #ccc;
+    border-radius: 50%;
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+.dot.active {
+    background: #e67e22;
+}
