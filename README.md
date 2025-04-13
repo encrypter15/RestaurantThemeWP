@@ -31,14 +31,10 @@ RestaurantTheme is a fully functional WordPress theme for restaurants. It featur
 - Optional: Google Analytics ID (e.g., `G-XXXXXXXXXX`).
 
 ### Project Setup
-1. **Run the Creation Script**:
-   - On your local machine or a server with bash access:
-     ```bash
-     chmod +x create_project.sh
-     ./create_project.sh
-     ```
-   - This generates the `RestaurantTheme` folder.
-
+1. **Download**:
+   ```bash
+   git clone https://github.com/encrypter15/RestaurantThemeWP/
+   ```
 2. **Zip the Theme**:
    ```bash
    cd RestaurantTheme
